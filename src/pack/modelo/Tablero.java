@@ -5,7 +5,6 @@
  */
 package pack.modelo;
 
-import pack.framework.Estado;
 import pack.framework.Estrategia;
 
 /**

@@ -46,7 +46,7 @@
                       <Component id="spinnerVistas" min="-2" max="-2" attributes="0"/>
                   </Group>
               </Group>
-              <EmptySpace pref="20" max="32767" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
               <Group type="103" groupAlignment="0" max="-2" attributes="0">
                   <Group type="102" alignment="0" attributes="0">
                       <Component id="butonJugar" min="-2" pref="32" max="-2" attributes="0"/>
@@ -62,12 +62,14 @@
     <DimensionLayout dim="1">
       <Group type="103" groupAlignment="0" attributes="0">
           <Group type="102" attributes="0">
-              <Group type="103" groupAlignment="3" attributes="0">
-                  <Component id="radioJEA" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="radioGravedad" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="butonJugar" alignment="3" min="-2" max="-2" attributes="0"/>
-                  <Component id="radioComplica" alignment="3" min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
                   <Component id="butonTerminar" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="radioJEA" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="radioGravedad" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="butonJugar" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="radioComplica" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
               </Group>
               <EmptySpace max="-2" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">

@@ -9,14 +9,6 @@ import java.awt.BorderLayout;
 import java.awt.Dimension;
 import javax.swing.JFrame;
 import pack.controlador.Juego;
-import pack.logica.EstadoJugar;
-import pack.logica.EstrategiaGravedad;
-import pack.logica.EstrategiaNormal;
-import pack.logica.JuegoGravedad;
-import pack.logica.JuegoNormal;
-import pack.logica.TableroNormal;
-import pack.modelo.Tablero;
-import pack.vista.TableroGrafico;
 
 /**
  *
